@@ -1,5 +1,3 @@
-![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/springboot-boilerplate.jpg)
-
 # Spring-Boot BoilerPlate
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -19,8 +17,8 @@ Spring Boot Boilerplate is an advanced foundation designed to facilitate the dev
 
 ## Installation
 ```
-$ git clone https://github.com/rimmelasghar/SpringBoot-boilerPlate.git
-$ cd SpringBoot-boilerPlate
+$ git clone https://github.com/zerox64/springboot-boilerplate.git
+$ cd springboot-boilerplate
 ```
 
 Make sure you have docker and docker-compose installed [docker installation guide](https://docs.docker.com/compose/install/)
@@ -31,7 +29,7 @@ DB_ROOT_PASSWORD=mySecretRootPass
 MYSQL_DATABASE=yourdbname
 MYSQL_USER=yourdbusername
 MYSQL_PASSWORD=dbpasswword
-JWT_ISSUER=https://github.com/rimmelasghar
+JWT_ISSUER=https://github.com/zerox64
 SWAGGER_CONTACT_MAIL=youremail
 SWAGGER_CONTACT_URL=yourwebsite
 SWAGGER_APP_NAME=Spring Boot Boilerplate Project
@@ -77,9 +75,9 @@ These features collectively form a strong foundation for developing production-r
 
 ## Documentation
 - Swagger UI:
-  ![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/swagger-1.jpg)
+  ![](https://github.com/zerox64/springboot-boilerplate/blob/main/imgs/swagger-1.jpg)
 - Get Request:
-  ![](https://github.com/rimmelasghar/SpringBoot-boilerPlate/blob/main/imgs/swagger-2.jpg)
+  ![](https://github.com/zerox64/springboot-boilerplate/blob/main/imgs/swagger-2.jpg)
   
   
 ## Contributing
@@ -95,10 +93,3 @@ To contribute to this project, follow these steps:
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-
-Reach out to me ```rimmelasghar4@gmail.com```
-
-made by Rimmel Asghar with ❤️
